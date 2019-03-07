@@ -3,7 +3,7 @@ My Projects for **Artificial Intelligence** Lesson at **Ferdowsi University of M
 
 ***
 
-These projects was given to students of "Aritificial Intelligence" with Dr. Ahad Harati at 2018 semester
+These projects was given to students of **"Aritificial Intelligence"** with **[Dr. Ahad Harati](http://a.harati.profcms.um.ac.ir "Dr Harati's Web Page")** at 2018 semester
 
 The projects in this repository consist of **3 problems** and the problems and description of them are in the same folder as my **c++** codes and they consist of the following problems:
 
