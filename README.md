@@ -14,8 +14,6 @@ The projects in this repository consist of **3 problems** and the problems and d
 
 **3. Constraint Satisfaction Problem (which is based on the Local Search problem)**
 
-***
-
 any comments on my code or my approach to these problems is welcome; you can contact me via:
 
 *email* => **arash.jeem@gmail.com**
