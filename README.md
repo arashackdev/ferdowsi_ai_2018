@@ -20,11 +20,11 @@ any comments on my code or my approach to these problems is welcome; you can con
 
 *Github* => **[jimist](https://github.com/jimist "My Github Account")**
 
-*Telegram* => **[jimist](https://t.me/jeemist "My Telegram Account")**
+*Telegram* => **[jeemist](https://t.me/jeemist "My Telegram Account")**
 
 *Linkedin* => **[jimist](https://linkedin.com/in/jimist "My Linkedin Account")**
 
-*Twitter* => **[jimist](https://twitter.com/jeemist "My Twitter Account")**
+*Twitter* => **[jeemist](https://twitter.com/jeemist "My Twitter Account")**
 
 
 thank your for visiting this repository, if you found it helpful don't hesitate for a star :-D
